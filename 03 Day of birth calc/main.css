@@ -1,0 +1,58 @@
+body {
+  margin-left: 95px;
+  margin-top: 145px;
+  background-color: #172a3a;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 45px;
+  font-weight: bold;
+  background: #72a98f;
+  color: #fbfffd;
+  margin-bottom: 3px;
+  width: 900px;
+  padding: 7px;
+}
+
+.calculator {
+  margin-top: 30px;
+}
+
+input {
+  width: 250px;
+  margin: 2px 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+#user-year,
+#user-month,
+#user-day {
+  height: 40px;
+  width: 190px;
+}
+
+#submit-date {
+  width: 605px;
+  height: 55px;
+  margin-top: 30px;
+  padding: 10px;
+  border: none;
+  border-radius: 2px;
+  font-weight: 500;
+  font-size: 24px;
+  background: #5a4a22;
+  color: #fbfffd;
+}
+
+#submit-date:hover {
+  background: #070c10;
+}
+
+#message {
+  margin: 20px 0px;
+  font-weight: 800;
+  font-size: 40px;
+  color: #fbfffd;
+}

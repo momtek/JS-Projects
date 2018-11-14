@@ -1,0 +1,57 @@
+body {
+  background: #c1b49e;
+  margin: 0 auto;
+}
+
+#form-calc {
+  margin-left: 450px;
+  margin-top: 20px;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 75px;
+  text-align: center;
+  margin-bottom: 10px; 
+}
+
+#display {
+  width: 675px;
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  background-color: #47423a;
+}
+
+#btn-plus {
+  background-color: #fcc1af;
+}
+
+#btn-minus {
+  background-color: #6395c8;
+}
+
+#btn-multi {
+  background-color: #80249f;
+}
+
+#btn-clear {
+  background-color: #d72638;
+}
+
+#btn-equal {
+  background-color: #54575d;
+}
+
+#btn-division {
+  background-color: #f49d37;
+}
+
+input {
+  width: 150px;
+  height: 100px;
+  font-size: 75px;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #fff;
+  border-style: none;
+}
