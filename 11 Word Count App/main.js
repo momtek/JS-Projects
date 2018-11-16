@@ -3,5 +3,5 @@ let print = function(message) {
 }
 
 document.getElementById("btn").onclick = function(evt) {
-  print(document.getElementById("str").nodeValue.length);
+  print(document.getElementById("str").value.length);
 }

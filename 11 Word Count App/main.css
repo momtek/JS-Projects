@@ -13,10 +13,14 @@ input {
 }
 
 #output {
+  text-align: center;
+  color: beige;
   margin-top: 45px;
   width: 100px;
-  background: tomato;
-  margin-left: 400px;
+  height: 30px;
+  background: rebeccapurple;
+  margin-left: 600px;
+  padding-top: 10px;
 }
 
 #btn {
